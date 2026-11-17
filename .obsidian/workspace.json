@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "001.词类与活用/001名词/名词.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "名词"
             }
           }
         ],
@@ -101,8 +111,8 @@
             "state": {
               "type": "footnotes",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "footnotes"
+              "icon": "lucide-file-signature",
+              "title": "脚注"
             }
           },
           {
@@ -140,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001.词类与活用/001名词/名词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.1046142578125,
-    "collapsed": true
+    "width": 215.1046142578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,18 +204,22 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
   "active": "a622efb2a7fe7038",
   "lastOpenFiles": [
-    "README.md",
     "000.Japanese《日语》/欢迎.md",
+    "002.助词/001格助词/格助词.md",
+    "001.词类与活用/001名词/名词.md",
     "未命名 1.base",
     "未命名.base",
     "coding.md",
     "AI.md",
-    "001.词类与活用/001名词/名词.md",
     "001.词类与活用/002ナ形容词/ナ形容词.md",
     "001.词类与活用/004动词/动词.md",
     "001.词类与活用/词类与活用作业.md",
