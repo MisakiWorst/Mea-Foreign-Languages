@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mea Foreign Languages"
+              "title": "README"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,8 @@
   },
   "active": "9edad9d6d837ba58",
   "lastOpenFiles": [
-    "README.md",
     "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
+    "README.md",
     "000.Mea Foreign Languages/欢迎.md",
     "001.词类与活用/001名词/名词.md",
     "未命名 1.base",

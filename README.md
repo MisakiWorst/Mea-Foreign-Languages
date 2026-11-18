@@ -72,51 +72,24 @@ git add . && git commit -m "update notes" && git push
 ## 📬 联系方式 | Contact
 
 <div align="center">
-
 <a href="https://x.com/MisakiWorst">
-
     <img src="https://img.shields.io/badge/X-%40MisakiWorst-8FB8DE?style=flat-square&logo=x&logoColor=white" alt="X" />
-
 </a>
-
 <a href="https://space.bilibili.com/3546847857609501">
-
     <img src="https://img.shields.io/badge/Bilibili-MisakiWorst-8FB8DE?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
-
 </a>
-
 <a href="mailto:MisakiWorst@gmail.com">
-
     <img src="https://img.shields.io/badge/Email-邮箱-8FB8DE?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-
 </a>
-
-  
-
 <a href="https://t.me/MisakiWorst">
-
     <img src="https://img.shields.io/badge/Telegram-%40MisakiWorst-8FB8DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel" />
-
 </a>
-
 <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=raegMNrq9JdZNfwjCGB2moedHxbAR%2BzmcFvhn1Y40Rt9pjFvYmu0lsSp%2BSy3h%2Fva&busi_data=eyJncm91cENvZGUiOiI2MTYwMjMyMjEiLCJ0b2tlbiI6IjM2OE9IZnM2OVhQT2YyRmNhNm5LM2gwS0ozL0NZeEp1V3VwUkJXSzBBYnNhOUlhZjlLZkVCSWdmTGtvc0dJRFoiLCJ1aW4iOiIxNzcwNjY5MDQxIn0%3D&data=FQREz6jiLEAp5C-11u09-5GOppk1MnrFFnOKcizFOYeQ0f4QDXrgZjLpOUfo3ZxWYr5jFYZZ7Nt8zWA_m320tQ&svctype=4&tempid=h5_group_info">
 
     <img src="https://img.shields.io/badge/QQ群-330917564-8FB8DE?style=flat-square&logo=qq&logoColor=white" alt="QQ Group" />
-
 </a>
-
-  
-
 </div>
-
-  
-
 <br/>
-
-  
-
 <div align="center">
-
-  
-
 <strong>☁️ 日拱一卒，功不唐捐。欢迎一起交流外语学习心得～ ☁️</strong>
+</div>
