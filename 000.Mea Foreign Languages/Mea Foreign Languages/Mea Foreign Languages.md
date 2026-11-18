@@ -11,6 +11,9 @@ up:
 叫我 **mea** 就可以啦～
 [黒咲芽亜](https://github.com/MisakiWorst)
 
+```git 笔记日常推送计划
+git add . && git commit -m "update notes" && git push
+```
 ---
 #名词 #Noun #名詞（めいし，meishi） 
 
