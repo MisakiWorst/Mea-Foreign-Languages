@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 237.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,13 +227,14 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "bb2cef533cbc1fca",
+  "active": "9edad9d6d837ba58",
   "lastOpenFiles": [
-    "001.词类与活用/001名词/名词.md",
+    "README.md",
     "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
+    "000.Mea Foreign Languages/欢迎.md",
+    "001.词类与活用/001名词/名词.md",
     "未命名 1.base",
     "未命名.base",
-    "000.Mea Foreign Languages/欢迎.md",
     "000.Japanese《日语》/欢迎.md",
     "002.助词/001格助词/格助词.md",
     "coding.md",
