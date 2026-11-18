@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8115b03e7645ee42",
+        "id": "21f88c12d79dda92",
         "type": "tabs",
         "children": [
           {
-            "id": "a622efb2a7fe7038",
+            "id": "9edad9d6d837ba58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.词类与活用/001名词/名词.md",
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "名词"
+              "title": "Mea Foreign Languages"
             }
           }
         ],
@@ -66,10 +66,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               },
@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -130,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001.词类与活用/001名词/名词.md",
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -182,6 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,12 +193,24 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "41f901f1d2d4f9b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 215.1046142578125
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,13 +227,15 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "a622efb2a7fe7038",
+  "active": "9edad9d6d837ba58",
   "lastOpenFiles": [
-    "000.Japanese《日语》/欢迎.md",
-    "002.助词/001格助词/格助词.md",
     "001.词类与活用/001名词/名词.md",
+    "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
     "未命名 1.base",
     "未命名.base",
+    "000.Mea Foreign Languages/欢迎.md",
+    "000.Japanese《日语》/欢迎.md",
+    "002.助词/001格助词/格助词.md",
     "coding.md",
     "AI.md",
     "001.词类与活用/002ナ形容词/ナ形容词.md",
@@ -238,9 +256,6 @@
     "005.疑问词/疑问词/疑问词解答.md",
     "003.助动词/助动词/助动词.md",
     "003.助动词/ない (否定助动词)/ない (否定助动词).md",
-    "003.助动词/たい (愿望助动词)/たい (愿望助动词).md",
-    "003.助动词/ます (敬语助动词)/ます (敬语助动词).md",
-    "003.助动词/です (敬语断定助动词)/です (敬语断定助动词).md",
     "003.助动词/助动词",
     "001.词类与活用/名词/未命名",
     "010.功能用语·句型/功能用语·句型/003.请求·劝诱·命令·禁止·许可·愿望·能力等",

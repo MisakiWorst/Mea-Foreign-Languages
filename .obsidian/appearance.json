@@ -1,7 +1,7 @@
 {
   "cssTheme": "Zen",
   "accentColor": "#2199e4",
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
   "nativeMenus": false,
