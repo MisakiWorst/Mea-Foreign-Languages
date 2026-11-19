@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mea Foreign Languages"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#名詞（めいし，meishi）",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,11 +206,12 @@
               "title": "笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 237.0999755859375
+    "width": 324.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,9 +230,9 @@
   },
   "active": "9edad9d6d837ba58",
   "lastOpenFiles": [
+    "000.Mea Foreign Languages/欢迎.md",
     "000.Mea Foreign Languages/Mea Foreign Languages/Mea Foreign Languages.md",
     "README.md",
-    "000.Mea Foreign Languages/欢迎.md",
     "001.词类与活用/001名词/名词.md",
     "未命名 1.base",
     "未命名.base",
