@@ -14,6 +14,9 @@ up:
 git add . && git commit -m "update" && git push
 ```
 
+```git 日常同步命令
+git fetch origin && git pull --rebase origin main && git push origin main
+```
 ---
 
 #名词 #Noun #名詞（めいし，meishi） 
