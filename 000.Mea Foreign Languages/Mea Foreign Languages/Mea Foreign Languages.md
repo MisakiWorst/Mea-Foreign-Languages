@@ -160,30 +160,12 @@ git fetch origin && git pull --rebase origin main && git push origin main
 #名～ではない
 普通体现在时否定式。“不是……”。（～ではない口语常写作 **「～じゃない」**）
 
-○ これ、 あなたのもの**じゃない**。 ぼくのだ。 
-	/这**不是**你的东西,是我的。 
-**例句一：否定所属关系（“这不是你的东西，是我的。”）**
+- これ、 あなたのもの**じゃない**。 ぼくのだ。 /这**不是**你的东西,是我的。 This **isn't** yours. It's mine.
 
-- **日语** これ、あなたのもの**じゃない**。ぼくのだ。
-    
-- **英语** This **isn't** yours. It's mine.
+- 休み**ではない**日は毎日働く。 /**不是**休息天的日子里天天上班。 I work every day that **isn't** a day off. _(或地道表达：I work every day on non-holidays / non-days-off.)_
 
-○ 休み**ではない**日は毎日働く。 
-	/**不是**休息天的日子里天天上班。 
-**例句二：否定属性修饰（“不是休息天的日子里天天上班。”）**
-
-- **日语** 休（やす）み**ではない**日（ひ）は毎日（まいにち）働（はたら）く。
-    
-- **英语** I work every day that **isn't** a day off. _(或地道表达：I work every day on non-holidays / non-days-off.)_
-
-○ あの人は中国人**ではなく**、 韓国人です。 
-/那个人**不是**中国人,那个人是韩国人。
-**例句三：否定身份并对立（“那个人不是中国人，是韩国人。”）**
-
-- **日语** あの人（ひと）は中国（ちゅうごく）人（じん）**ではなく**、韩国（かんこく）人（じん）です。
-    
-- **英语** That person **is not** Chinese, (but) Korean.
-
+- あの人は中国人**ではなく**、 韓国人です。 /那个人**不是**中国人,那个人是韩国人。That person **is not** Chinese, (but) Korean.
+ 
 
 ---
 
@@ -192,21 +174,10 @@ git fetch origin && git pull --rebase origin main && git push origin main
 
 普通体过去时肯定式。“(过去)是……”。
 
-○ 昨日は七日**だった**。 
-/昨天**是**七号。 
-**例句一：过去日期的断定（“昨天是七号。”）**
+- 昨日は七日**だった**。 /昨天**是**七号。 Yesterday **was** the seventh.
 
-- **日语** 昨日（きのう）は七日（なのか）**だった**。
-    
-- **英语** Yesterday **was** the seventh.
+- 昨日は雨**だった**ので、 どこへも行かなかった。 /因为昨天下雨,所以我哪儿也没去。Because** it rained yesterday, I didn't go anywhere. _(或：Because yesterday was a rainy day, I stayed home.)_
 
-○ 昨日は雨**だった**ので、 どこへも行かなかった。 
-/因为昨天下雨,所以我哪儿也没去。
-**例句二：过去原因与结果（“因为昨天下雨，所以我哪儿也没去。”）**
-
-- **日语** 昨日（きのう）は雨（あめ）**だったので**、どこへも行（い）かなかった。
-    
-- **英语** **Because** it rained yesterday, I didn't go anywhere. _(或：Because yesterday was a rainy day, I stayed home.)_
 
 ---
 
@@ -214,21 +185,9 @@ git fetch origin && git pull --rebase origin main && git push origin main
 #名～ではなかった
 普通体过去时否定式。“(过去)不是……”。（口语常写作 **「～分（じゃ）なかった」**）
 
-○ 昨日は八日ではなかった。 
-/昨天不是八号。 
-**例句一：过去日期的断定（“昨天是七号。”）**
+- 昨日は八日ではなかった。 /昨天不是八号。 Yesterday **was** the seventh.
 
-- **日语** 昨日（きのう）は七日（なのか）**だった**。
-    
-- **英语** Yesterday **was** the seventh.
-
-○ その時、 ここは町じゃなかったので、 静かだった。 
-/那时候这一带不是城镇, 所以很安静。
-**例句二：过去原因与结果（“因为昨天下雨，所以我哪儿也没去。”）**
-
-- **日语** 昨日（きのう）は雨（あめ）**だったので**、どこへも行（い）かなかった。
-    
-- **英语** **Because** it rained yesterday, I didn't go anywhere. _(或：Because yesterday was a rainy day, I stayed home.)_
+- その時、 ここは町じゃなかったので、 静かだった。 /那时候这一带不是城镇, 所以很安静。**Because** it rained yesterday, I didn't go anywhere. _(或：Because yesterday was a rainy day, I stayed home.)_
 
 ---
 
@@ -236,31 +195,13 @@ git fetch origin && git pull --rebase origin main && git push origin main
 #名～です
 礼貌体（敬体/丁重体）现在时肯定式。“是……”。
 
-○ 今日は八日です。 
-/今天是八号。
-**例句一：日期断定（“今天是八号。”）**
+- 今日は八日です。 /今天是八号。Today **is** the eighth. / It **is** the eighth today.
 
-- **日语** 今日（きょう）は八日（ようか）**です**。
-    
-- **英语** Today **is** the eighth. / It **is** the eighth today.
+- 今は午前8時です。/现在是上午8点。 It **is** 8:00 AM now.
 
-○ 今は午前8時です。
-/现在是上午8点。 
-**例句二：时间断定（“现在是上午8点。”）**
+- 明日は休みの日ですから、 出かけます。 /因为明天是休息天,所以我要出门。**Because** tomorrow is a day off, I'm going out.
 
-- **日语** 今（いま）は午前（ごぜん）8時（じ）**です**。
-    
-- **英语** It **is** 8:00 AM now.
-
-○ 明日は休みの日ですから、 出かけます。 
-/因为明天是休息天,所以我要出门。
-**例句三：原因与计划（“因为明天是休息天，所以我要出门。”）**
-
-- **日语** 明日（あした）は休（やす）みの日（ひ）**ですから**、出（で）かけます。
-    
-- **英语** **Because** tomorrow is a day off, I'm going out.
-
-
+---
 
 # 7.名～ではないです/ではありません
 #名～ではないです/ではありません
@@ -269,60 +210,25 @@ git fetch origin && git pull --rebase origin main && git push origin main
 **「名＋ではありません」**（书面/正规敬体）
 **「名＋じゃありません / ではないです / じゃないです」**（口语敬体）
 
-○ 今日は七日ではありません。 
-/今天不是七号。 
-**例句一：否定日期（“今天不是七号。”）**
+- 今日は七日ではありません。 /今天不是七号。 Today **is not** the seventh.
 
-- **日语** 今日（きょう）は七日（なのか）**ではありません**。
-    
-- **英语** Today **is not** the seventh.
+- 山田さんは社長じゃありません。 部長です。 /山田不是社长,是部长。Mr. Yamada **is not** the company president, **but** the department manager.
 
-○ 山田さんは社長じゃありません。 部長です。 
-/山田不是社长,是部长。
-**例句二：否定身份与职位转折（“山田不是社长，是部长。”）**
+- 明日は休みの日じゃないですから、 働きます。/明天不是休息天,所以要上班。**Because** tomorrow **is not** a day off, I will work.
 
-- **日语** 山田（やまだ）さんは社长（しゃちょう）**じゃありません**。部长（ぶちょう）**です**。
-    
-- **英语** Mr. Yamada **is not** the company president, **but** the department manager.
-
-○ 明日は休みの日じゃないですから、 働きます。
-/明 天 不 是 休 息 天,所 以 要 上班。
-**例句三：原因与计划的否定（“因为明天不是休息天，所以要上班。”）**
-
-- **日语** 明日（あした）は休（やす）みの日（ひ）**じゃないですから**、働（はたら）きます。
-    
-- **英语** **Because** tomorrow **is not** a day off, I will work.
-
+---
 
 # 8.名～でした
 #名～でした
 礼貌体过去时肯定式。“(过去)是……”。
 
-○ 昨日までは夏休みでした。 
-/到昨天为止是暑假期间。 
-**例句一：过去特定区间的断定（“到昨天为止是暑假期间。”）**
+- 昨日までは夏休みでした。 /到昨天为止是暑假期间。 It **was** summer vacation until yesterday.
 
-- **日语** 昨日（きのう）までは夏（なつ）休（やす）み**でした**。
-    
-- **英语** It **was** summer vacation until yesterday.
+- 去年の今は彼は課長でした。/去年这时候他是科长。 This time last year, he **was** a section chief.
 
-○ 去年の今は彼は課長でした。
-/去年这时候他是科长。 
-**例句二：过去身份与状态（“去年这时候他是科长。”）**
+- 昨日は雨でしたから、 どこへも行きませんでした。 /昨天下雨,所以我哪儿也没去。**Because** it was rainy yesterday, I didn't go anywhere.
 
-- **日语** 去年（きょねん）の今（いま）は彼（かれ）は课（か）长（ちょう）**でした**。
-    
-- **英语** This time last year, he **was** a section chief.
-
-○ 昨日は雨でしたから、 どこへも行きませんでした。 
-/昨天下雨,所以我哪儿也 没去。
-**例句三：过去原因与结果的礼貌表达（“昨天下雨，所以我哪儿也没去。”）**
-
-- **日语** 昨日（きのう）は雨（あめ）**でしたから**、どこへも行（い）きませんでした。
-    
-- **英语** **Because** it was rainy yesterday, I didn't go anywhere.
-
-
+---
 
 # 9.名～ではなかったです/ではありませんでした
 #名～ではなかったです/ではありませんでした
@@ -331,30 +237,13 @@ git fetch origin && git pull --rebase origin main && git push origin main
 **「名＋ではありませんでした」**（书面/正规敬体） 
 **「名＋じゃありませんでした / ではないです / じゃないかったです」**（口语敬体）
 
-○ 昨日は七日ではありませんでした。
-/昨天不是七号。 
-**例句一：过去日期的否定断定（“昨天不是七号。”）**
+- 昨日は七日ではありませんでした。/昨天不是七号。 Yesterday **was not** the seventh.
 
-- **日语** 昨日（きのう）は七日（なのか）**ではありませんでした**。
-    
-- **英语** Yesterday **was not** the seventh.
+- その時、父は警官じゃありませんでした。/那时候我父亲还不是警察。 At that time, my father **was not** a police officer yet.
 
-○ その時 、 父は警官じゃありませんでした。
-/那时候我父亲还不是警察。 
-**例句二：过去身份与职业的否定（“那时候我父亲还不是警察。”）**
+- 昔、ここは町じゃなかったですから、静かでした。 /从前,这里还不是城镇, 所以很安静。**Because** this area **was not** a town in the past, it **was** quiet.
 
-- **日语** その時（とき）、父（ちち）は警官（けいかん）**じゃありませんでした**。
-    
-- **英语** At that time, my father **was not** a police officer yet.
-
-○ 昔 、 ここは町じゃなかったですから、 静 かでした。 
-/从前,这里还不是城镇, 所以很安静。
-**例句三：过去原因与环境描述的否定（“从前，这里还不是城镇，所以很安静。”）**
-
-- **日语** 昔（むかし）、ここは町（まち）**じゃなかったですから**、静（しず）かでした。
-    
-- **英语** **Because** this area **was not** a town in the past, it **was** quiet.
-
+---
 
 # 10.名～の
 #名～の
@@ -362,29 +251,13 @@ git fetch origin && git pull --rebase origin main && git push origin main
 
 **表示**所属（老师的书）、**限定/属性**（女孩子/小孩子）、以及**代指名词**（我的雨伞 -> 我的[东西]）。
 
-○ これは先 せん 生 せい の本 ほん です。 
-/这是老师的书。 
- **例句一：表示所属（“这是老师的书。”）**
+○ これは先生の本です。 /这是老师的书。 This is the teacher's book.
 
-- **日语** これは先生（せんせい）**の**本（ほん）です。
-    
-- **英语** This is the teacher's book.
+- 下の子は女の子です。 /我家最小的孩子是个女孩。 The younger child is a **girl**. _(英语中“女孩”是一个独立词，非 girl of female)_
 
-○ 下 した の子 こ は 女 おんな の子 こ です。 
-/我家最小的孩子是个女孩。 
-**例句二：表示属性/分类（“我家最小的孩子是个女孩。”）**
+- このかさはわたしのです。 /这把雨伞是我的。This umbrella is **mine**. _(使用名词性物主代词 mine 代替 my umbrella)_
 
-- **日语** 下（した）の子（こ）は女（おんな）**の**子（こ）です。
-    
-- **英语** The younger child is a **girl**. _(英语中“女孩”是一个独立词，非 girl of female)_
-
-○ このかさはわたしのです。 
-/这把雨伞是我的。
-**例句三：代指名词/名词性物主（“这把雨伞是我的。”）**
-
-- **日语** このかさはわたし**の**です。
-    
-- **英语** This umbrella is **mine**. _(使用名词性物主代词 mine 代替 my umbrella)_
+---
 
 # 11.名～で
 #名～で
@@ -392,30 +265,13 @@ git fetch origin && git pull --rebase origin main && git push origin main
 
 **「～で」** 是名词（或断定助动词「だ/です」）的**连用形中顿**，用于**连接两个句子**或**顺承两个谓语**，表示“是……，并且/同时/因而……”。
 
-○ 今日は三日で、 雨でした。 
-/今天是三号,有雨。
-**例句一：并列客观事实（“今天是三号，有雨。”）**
+- 今日は三日で、 雨でした。 /今天是三号,有雨。Today is the third, **and** it was rainy.
 
-- **日语** 今日（きょう）は三日（みっか）**で**、雨（あめ）でした。
-    
-- **英语** Today is the third, **and** it was rainy.
+- これは「さしみ」で、 おいしいです。/这个是“生鱼片”,很好吃。This is "sashimi", **and** it is delicious.
 
-○ これは「さしみ」で、 おいしいです。
-/这个是“生鱼片”,很好吃。
-**例句二：解释说明与评价（“这个是‘生鱼片’，很好吃。”）**
+- 山田さんは日本人で、 東京から来ました。 /山田是日本人,从东京过来的。Mr. Yamada is Japanese **and** came from Tokyo. _(或用同位语：Mr. Yamada, a Japanese, came from Tokyo.)_
 
-- **日语** これは「さしみ」**で**、おいしいです。
-    
-- **英语** This is "sashimi", **and** it is delicious.
-
-○ 山田さんは日本人で、 東京から来ました。 
-/山田是日本人,从东京过来的。
-**例句三：身份断定与动作顺承（“山田是日本人，从东京过来的。”）**
-
-- **日语** 山田（やまだ）さんは日本人（にほんじん）**で**、东京（とうきょう）から来（き）ました。
-    
-- **英语** Mr. Yamada is Japanese **and** came from Tokyo. _(或用同位语：Mr. Yamada, a Japanese, came from Tokyo.)_
-
+---
 
 # 12.名～な
 #名～で
@@ -429,76 +285,36 @@ git fetch origin && git pull --rebase origin main && git push origin main
     
 2. **语气强调/解释说明**：`名词 + なの(です)`（用于说明原委、回答原因，带有“因为是……啊 / 事实是……”的解释语气）。
 
-○ 今日は日曜日なので、 会社は休みます。 
-/因为今天是星期天,所以公司休息。 
-**例句一：客观原因连接（“因为今天是星期天，所以公司休息。”）**
+- 今日は日曜日なので、 会社は休みます。 /因为今天是星期天,所以公司休息。 **Since** today is Sunday, the company is closed. _(或：Because today is Sunday...)_
 
-- **日语** 今日（きょう）は日曜日（にちようび）**な**ので、会社（かいしゃ）は休（やす）みます。
-    
-- **英语** **Since** today is Sunday, the company is closed. _(或：Because today is Sunday...)_
+- A 「何の病気ですか。 」/是什么病? A: What kind of illness is it? 
+- B 「風邪なのです。 」/是感冒。 B: **Actually**, it's a cold. / **It's that** I have a cold.
 
-○ A 「何の病気ですか。 」
-/是什么病? 
-B 「風邪なのです。 」
-/是感冒。 
-**例句二：询问与解释性回答（“是什么病？” / “是感冒。”）**
+- A 「どうして会社へ行かないの？」/为什么不去上班? A: Why aren't you going to work? 
+- B 「今日は休みなの。 」/因为今天公司休息。B: **Because** today is a day off.
 
-- **日语** A: 何（なん）の病気（びょうき）ですか。 B: 风邪（かぜ）**な**のです。 _(带有“病因是……”的解释说明语气)_
-    
-- **英语** A: What kind of illness is it? B: **Actually**, it's a cold. / **It's that** I have a cold.
 
-○ A 「どうして会社へ行かないの？」
-/为什么不去上班? 
-B 「今日は休みなの。 」
-/因为今天公司休息。
-**例句三：随意口语中的原因解释（“为什么不去上班？” / “因为今天休息啊。”）**
-
-- **日语** A: どうして会社（かいしゃ）へ行（い）かないの？ B: 今日（きょう）は休（やす）み**な**の。 _(口语中用 なの 结尾表示解释原因)_
-    
-- **英语** A: Why aren't you going to work? B: **Because** today is a day off.
+---
 
 
 # 13.名～だろう
 #名～だろう
 普通体,表示推测。“……吧”。
 
-**「名＋だろう」**（礼貌体为 **「でしょう」**）是名词普通体的**推量形（推测式）**，表示说话者基于客观事实或直觉做出的不确定推测，意为“……吧 / 大概是……”。副词 **「たぶん」**（大概/可能）常与 **「だろう」** 呼应使用。
+- あの人は髪が長いが、 たぶん男の人だろう。 /虽然那个人留着长发,但可能是个男的。 That person has long hair, but he is **probably** a man. _(或：but he might be a man.)_
 
-○ あの人は髪が長いが、 たぶん男の人だろう。 
-/虽然那个人留着长发,但可能是个男的。 
-**例句一：基于外貌/特征的推测（“虽然那个人留着长发，但可能是个男的。”）**
+- 山田さんの娘さんはたぶん二十歳ぐらい**だろう**。/山田的女儿大概是二十岁 左右吧。Mr. Yamada's daughter is **probably** about twenty years old.
 
-- **日语** あの人（ひと）は髪（かみ）が長（なが）いが、たぶん男（おとこ）の人（ひと）**だろう**。
-    
-- **英语** That person has long hair, but he is **probably** a man. _(或：but he might be a man.)_
 
-○ 山 やま 田 だ さんの 娘 むすめ さんはたぶん二 は 十 た 歳 ち ぐらいだろう。
-/山田的女儿大概是二十岁 左右吧。
-**例句二：基于数量/年龄的推测（“山田的女儿大概是二十岁左右吧。”）**
-
-- **日语** 山田（やまだ）さんの娘（むすめ）さんはたぶん二十歳（はたち）ぐらい**だろう**。
-    
-- **英语** Mr. Yamada's daughter is **probably** about twenty years old.
+---
 
 
 # 14.名～でしょう
 #名～でしょう
 礼貌体,表示推测。“……吧”。
 
-**「名＋でしょう」** 是名词礼貌体（敬体）的**推量形（推测式）**，是「～だろう」的礼貌说法，表示说话者向对方提出礼貌的推测或语气温和的客观估计，意为“……吧 / 大概是……”。常与副词 **「たぶん」**（大概/可能）呼应使用。
+- あの人は髪が长いですが、たぶん男の人**でしょう**。/虽然那个人留着长发,但 可能是个男的。That person has long hair, but he **could probably be** a man. _(使用 could/probably 显得语气客气委婉)_
 
-○ あの人 ひと は髪 かみ が長 なが いですが、 たぶん 男 おとこ の人 ひと でしょう。 
-/虽然那个人留着长发,但 可能是个男的。 
-**例句一：基于外貌特征的礼貌推测（“虽然那个人留着长发，但可能是个男的。”）**
+- 山田さんの娘さんはたぶん二十歳ぐらいでしょう。/山田的女儿大概是二十岁左右吧。Mr. Yamada's daughter **might be** about twenty years old.
 
-- **日语** あの人（ひと）は髪（かみ）が长（なが）いですが、たぶん男（おとこ）の人（ひと）**でしょう**。
-    
-- **英语** That person has long hair, but he **could probably be** a man. _(使用 could/probably 显得语气客气委婉)_
-
-○ 山 やま 田 だ さんの 娘 むすめ さんはたぶん二 は 十 た 歳 ち ぐらいでしょう。
-/山田的女儿大概是二十 岁左右吧。
-**例句二：基于年龄的礼貌推测（“山田的女儿大概是二十岁左右吧。”）**
-
-- **日语** 山田（やまだ）さんの娘（むすめ）さんはたぶん二十歳（はたち）ぐらい**でしょう**。
-    
-- **英语** Mr. Yamada's daughter **might be** about twenty years old.
+---
